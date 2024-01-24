@@ -1,0 +1,31 @@
+
+Lpython:S11357"4Complete the task associated to this "TODO" comment.(šÎ
+lpython:S3776M"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(˜û„¶
+ypython:S1845¿"`Rename method "jump" to prevent any misunderstanding/clash with field "JUMP" defined on line 260(²Æ•Ÿ
+|python:S1845Ğ"^Rename method "hms" to prevent any misunderstanding/clash with field "HMS" defined on line 283(’ö¦ùÿÿÿÿ
+~python:S1845Ö"`Rename method "ampm" to prevent any misunderstanding/clash with field "AMPM" defined on line 286(ºá§¥øÿÿÿÿ
+„python:S1845Ü"fRename method "pertain" to prevent any misunderstanding/clash with field "PERTAIN" defined on line 289(šƒøÿÿÿÿ
+python:S1845ß"fRename method "utczone" to prevent any misunderstanding/clash with field "UTCZONE" defined on line 288(¿ÛÀ¼
+python:S1845â"hRename method "tzoffset" to prevent any misunderstanding/clash with field "TZOFFSET" defined on line 290(ÀÊ©±
+Mpython:S1135‰"4Complete the task associated to this "TODO" comment.(‚ùæ
+Mpython:S1135‹"4Complete the task associated to this "TODO" comment.(Š„Ä„
+Mpython:S1135"4Complete the task associated to this "TODO" comment.(”û¬¿
+Mpython:S1135£"4Complete the task associated to this "TODO" comment.(à™Ñµ
+rpython:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¬”†öüÿÿÿÿ
+mpython:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(¡——
+rpython:S3776š"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(Î°¸°ıÿÿÿÿ
+Mpython:S1135‰"4Complete the task associated to this "TODO" comment.(‘Üåê
+Rpython:S1135¯"4Complete the task associated to this "TODO" comment.(éüàùÿÿÿÿ
+Mpython:S1135·"4Complete the task associated to this "TODO" comment.(¦Ù…í
+rpython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(Óñßİûÿÿÿÿ
+Mpython:S1135"4Complete the task associated to this "TODO" comment.(€®ç
+Mpython:S1135¦"4Complete the task associated to this "TODO" comment.(™ëåÇ
+Rpython:S1135­"4Complete the task associated to this "TODO" comment.(ÒÏŠ€ûÿÿÿÿ
+Rpython:S1135ˆ"4Complete the task associated to this "TODO" comment.(¿¥º±úÿÿÿÿ
+Mpython:S1135Ì"4Complete the task associated to this "TODO" comment.(”¾Ş¡
+Mpython:S1135Ø"4Complete the task associated to this "TODO" comment.(ó•Ç…
+mpython:S3776î
+"TRefactor this function to reduce its Cognitive Complexity from 93 to the 15 allowed.(¸†‚«
+Ypython:S6353ğ
+";Use concise character class syntax '\d' instead of '[0-9]'.(Ä—ªŸıÿÿÿÿ
+Apython:S108¶")Either remove or fill this block of code.(ã‘Û¾
